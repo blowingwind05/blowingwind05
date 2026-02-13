@@ -34,7 +34,7 @@ Code is my canvas, and I paint with logic and creativity.
 
 <p align="center">
 <img align="center" width="45%" src="C.png" />
-<img align="center" width="45%" src="python.png" />
+<img align="center" width="45%" src="python1.png" />
 </p>
 
 <p align="center">
