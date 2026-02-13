@@ -48,7 +48,9 @@ Code is my canvas, and I paint with logic and creativity.
 <p align="center">
   <img src="https://count.getloli.com/get/@blowingwind05?theme=asoul" alt="Visitor Count" />
 </p>
+
 ![snake](https://raw.githubusercontent.com/blowingwind05/blowingwind05/output/github-contribution-grid-snake.svg)
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=UNTIL%20NEXT%20TIME!&fontSize=90&fontAlign=50&fontAlignY=70&desc=May%20our%20paths%20cross%20again&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
