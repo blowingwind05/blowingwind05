@@ -3,9 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/GitHub/GitHub.png" width="400" alt="Logo" style="margin: -60px 0;" />
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/GitHub/GitHub.png" width="400" alt="Logo" style="margin: -90px 0 -50px 0;" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Identity-学生-add8e6?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hobby-二次元-ffb6c1?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-学习中-8fb339?style=flat-square&logo=leaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dream-为梦想而努力-ffdab9?style=flat-square&logo=sparkles&logoColor=white" />
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+github+profile+page;Full-Stack+Developer+%7C+Tech+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </div>
