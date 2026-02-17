@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="GitHub.png" width="200" alt="Logo" style="margin: -0px 0 -0px 0;" />
+  <img src="GitHub.png" width="400" alt="Logo" style="margin: 0" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Identity-学生-add8e6?style=flat-square&logo=bookstack&logoColor=white" />
